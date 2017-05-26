@@ -1,6 +1,6 @@
 VIM-ZIMPL
 =========
-
+[![Build Status](https://travis-ci.org/1995parham/vim-zimpl.svg?branch=master)](https://travis-ci.org/1995parham/vim-zimpl)
 # Introduction
 Simple syntax highlighting for zimpl and it may have many problems :smile:
 At this moment it can handle almost everything documented in zimpl manual.
