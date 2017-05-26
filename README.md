@@ -2,10 +2,8 @@ VIM-ZIMPL
 =========
 
 # Introduction
-Simple syntax highlighting for zimpl written just for fun ....
-so it may have many problems ... :-))  
-
-At this moment it can handle almost everything documented zimpl manual
+Simple syntax highlighting for zimpl and it may have many problems :simle:
+At this moment it can handle almost everything documented in zimpl manual.
 
 # What does it look like?
 ![screenshot here..](http://www.googledrive.com/host/0B33KzMHyLoH2eVNHWFJZdmthOVk/vim-zimpl-screenshot.jpg)
@@ -16,8 +14,9 @@ This project can either be installed manually or by using pathogen.
 
 ## Manual Installation
 
-Download syntax/zimpl.vim and copy the file to .vim/syntax/ in your home folder. 
-Download ftdetect/zimpl.vim and copy the file to .vim/ftdetect/ in your home folder. 
+Download syntax/zimpl.vim and copy the file to .vim/syntax/ in your home folder.
+
+Download ftdetect/zimpl.vim and copy the file to .vim/ftdetect/ in your home folder.
 
 ## Installation with Git & Pathogen
 
