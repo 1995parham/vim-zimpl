@@ -2,7 +2,7 @@ VIM-ZIMPL
 =========
 
 # Introduction
-Simple syntax highlighting for zimpl and it may have many problems :simle:
+Simple syntax highlighting for zimpl and it may have many problems :smile:
 At this moment it can handle almost everything documented in zimpl manual.
 
 # What does it look like?
